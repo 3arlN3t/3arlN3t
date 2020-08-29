@@ -2,7 +2,7 @@
 
 [Follow me at Twitter](https://twitter.com/OtsileKole)
 
-[Vist Otsile's Website](www.otsilekole.co.za)
+[Visit my Website - Still Under Construction](www.otsilekole.co.za)
 
 <!--
 **3arlN3t/3arlN3t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
