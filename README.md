@@ -1,6 +1,6 @@
 # Otsile Earl Kole
 
-[Follow me at Twitter](https://twitter.com/OtsileKole)
+[Follow me on Twitter](https://twitter.com/OtsileKole)
 
 [Visit my Website - Still Under Construction](www.otsilekole.co.za)
 
