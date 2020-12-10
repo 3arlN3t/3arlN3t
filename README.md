@@ -1,13 +1,19 @@
-# Otsile Earl Kole
+- 🔭 I’m Otsile Earl Kole
+- 🌱 I am still working on my blog here www.otsilekole.co.za
+- 👯 I am planning to venture into podcasting, watch the space!!!
+- 🤔 I’m on Twitter https://twitter.com/OtsileKole
+- 💬 and sorting out my Youtube Channel
+- 📫 You can reach me using Twitter
+- 😄 Pronouns: Not sure what to put here, I will figure out
+- ⚡ Fun fact: I am an African
 
-[Follow me on Twitter](https://twitter.com/OtsileKole)
-
-[Visit my Website - Still Under Construction](www.otsilekole.co.za)
 
 <!--
 **3arlN3t/3arlN3t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+https://twitter.com/OtsileKole
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
