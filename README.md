@@ -7,6 +7,8 @@
 - 😄 Pronouns: Not sure what to put here, I will figure out
 - ⚡ Fun fact: I am an African
 
+![Otsile's github stats](https://github-readme-stats.vercel.app/api?username=3arlN3t&show_icons=true)
+
 
 <!--
 **3arlN3t/3arlN3t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
