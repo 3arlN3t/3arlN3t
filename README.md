@@ -1,7 +1,7 @@
 - 🔭 I’m Otsile Earl Kole
 - 🌱 I am still working on my blog here www.otsilekole.co.za
 - 👯 I am planning to venture into podcasting, watch the space!!!
-- 🤔 I’m on Twitter https://twitter.com/OtsileKole
+- 🤔 I’m on Twitter if you care to hear me rambling in short form https://twitter.com/OtsileKole
 - 💬 and sorting out my Youtube Channel
 - 📫 You can reach me using Twitter
 - 😄 Pronouns: Not sure what to put here, I will figure out
