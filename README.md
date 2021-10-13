@@ -1,5 +1,5 @@
 - 🔭 I’m Otsile Earl Kole
-- 🌱 I am still working on my blog here www.otsilekole.co.za
+- 🌱 I am still working on my blog
 - 👯 I am planning to venture into podcasting, watch the space!!!
 - 🤔 I’m on Twitter if you care to hear me rambling in short form https://twitter.com/OtsileKole
 - 💬 and sorting out my Youtube Channel
