@@ -1,5 +1,5 @@
 <h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Otsile Earl Kole</h1>
-<h3 align="left">I am a Web Developer in South Africa</h3>
+<h3 align="left">I am a LEARNER from South Africa</h3>
 
 - 🌱 I am still working on my blog
 - 👯 I am planning to venture into podcasting, watch the space!!!
