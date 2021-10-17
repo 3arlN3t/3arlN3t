@@ -3,19 +3,17 @@
 
 - 🌱 I am still working on my blog
 - 👯 I am planning to venture into podcasting, watch the space!!!
-- 📫 I’m on Twitter if you care to hear me rambling in short form https://twitter.com/OtsileKole
-- 💬 still sorting out my Youtube Channel https://www.youtube.com/c/OtsileEarlKole/videos
-- 👯 and I am looking for gigs/employment here https://www.linkedin.com/in/otsile-earl-kole-0734a820/
+- 📫 I’m on Twitter if you care to hear me rambling in short form **[Twitter]**
+- 💬 still sorting out my **[YouTube]** channel
+- 👯 and I am looking for gigs/employment in **[LinkedIn]**
 - ⚡ Fun fact: I am an African
 
 ![Otsile's github stats](https://github-readme-stats.vercel.app/api?username=3arlN3t&show_icons=true)
-
 <br>
 
 <h2 align="left" id="OtsileKole-tech">Favorite Tech</h2>
 
 > Tools, languages, frameworks and other things that I would like to work with:
-
 
 <table align="center">
   <tr>
@@ -189,6 +187,10 @@
   </tr>
     
 </table>
+
+[linkedin]: https://www.linkedin.com/in/otsile-earl-kole-0734a820/ "LinkedIn"
+[twitter]: https://twitter.com/OtsileKole "Twitter"
+[youtube]: https://www.youtube.com/c/OtsileEarlKole/videos "YouTube"
 
 <!--
 **3arlN3t/3arlN3t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
