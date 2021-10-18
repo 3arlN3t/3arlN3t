@@ -192,6 +192,7 @@
 [twitter]: https://twitter.com/OtsileKole "Twitter"
 [youtube]: https://www.youtube.com/c/OtsileEarlKole/videos "YouTube"
 
+[![Otsiles's github activity graph](https://activity-graph.herokuapp.com/graph?username=3arlN3t&theme=react-dark)](https://github.com/3arlN3t)
 <!--
 **3arlN3t/3arlN3t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
