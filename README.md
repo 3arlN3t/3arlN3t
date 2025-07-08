@@ -1,4 +1,4 @@
-<h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Otsile Earl Kole</h1>
+<h1 align="left" id="OtsileKole-title">:wave: Hello there! I'm Otsile Earl Kole</h1>
 <h3 align="left">I am a LEARNER from South Africa</h3>
 
 - 🌱 I am still working on my blog
@@ -12,13 +12,11 @@
 (http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3arlN3t&theme=prussian)-->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3arlN3t&theme=default" alt="Profile Details" height="180">
 <p align="left">
-  
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=3arlN3t&show_icons=true" alt="GitHub stats" height="180"> -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3arlN3t&theme=default&utcOffset=8" alt="Productive Time" height="180">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3arlN3t&theme=default" alt="Most Commit Language" height="180">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=3arlN3t&theme=default" alt="GitHub Stats" height="180">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3arlN3t&layout=compact" alt="Top Languages" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3arlN3t&layout=compact" alt="Top Languages" height="180">
 </p>
 
 <br>
@@ -207,16 +205,4 @@
 <!--
 **3arlN3t/3arlN3t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-https://twitter.com/OtsileKole
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
