@@ -8,11 +8,11 @@
 - 👯 and I am looking for gigs/employment in **[LinkedIn]**
 - ⚡ Fun fact: I am an African
 
-![Otsile's github stats](https://github-readme-stats.vercel.app/api?username=3arlN3t&show_icons=true)
+<!-- ![Otsile's github stats](https://github-readme-stats.vercel.app/api?username=3arlN3t&show_icons=true)
 <br>
 
 # My GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3arlN3t&theme=prussian)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3arlN3t&theme=prussian)-->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=3arlN3t&show_icons=true" alt="GitHub stats" height="165">
