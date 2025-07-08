@@ -13,7 +13,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3arlN3t&theme=default" alt="Profile Details" height="180">
 <p align="left">
   
- <img src="https://github-readme-stats.vercel.app/api?username=3arlN3t&show_icons=true" alt="GitHub stats" height="180">
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=3arlN3t&show_icons=true" alt="GitHub stats" height="180"> -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3arlN3t&theme=default&utcOffset=8" alt="Productive Time" height="180">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3arlN3t&theme=default" alt="Most Commit Language" height="180">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=3arlN3t&theme=default" alt="GitHub Stats" height="180">
