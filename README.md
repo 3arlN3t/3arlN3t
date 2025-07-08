@@ -11,6 +11,11 @@
 ![Otsile's github stats](https://github-readme-stats.vercel.app/api?username=3arlN3t&show_icons=true)
 <br>
 
+# My GitHub Stats
+
+![](https://github.com/3arlN3t/3arlN3t/blob/master/generated/overview.svg)
+![](https://github.com/3arlN3t/3arlN3t/blob/master/generated/languages.svg)
+<br>
 <h2 align="left" id="OtsileKole-tech">Favorite Tech</h2>
 
 > Tools, languages, frameworks and other things that I would like to work with:
