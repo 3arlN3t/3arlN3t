@@ -14,8 +14,10 @@
 # My GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3arlN3t&theme=prussian)
 
-![](https://github.com/3arlN3t/3arlN3t/blob/master/generated/overview.svg)
-![](https://github.com/3arlN3t/3arlN3t/blob/master/generated/languages.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=3arlN3t&show_icons=true" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3arlN3t&layout=compact" alt="Top Languages" height="165">
+</p>
 <br>
 <h2 align="left" id="OtsileKole-tech">Favorite Tech</h2>
 
