@@ -12,7 +12,7 @@
 (http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3arlN3t&theme=prussian)-->
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3arlN3t&theme=default" alt="Profile Details" height="180">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3arlN3t&theme=default" alt="Profile Details" height="165">
   <img src="https://github-readme-stats.vercel.app/api?username=3arlN3t&show_icons=true" alt="GitHub stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3arlN3t&layout=compact" alt="Top Languages" height="165">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3arlN3t&theme=default" alt="Most Commit Language" height="180">
