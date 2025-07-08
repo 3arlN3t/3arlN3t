@@ -11,7 +11,7 @@
 <!-- ![Otsile's github stats](https://github-readme-stats.vercel.app/api?username=3arlN3t&show_icons=true)
 (http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3arlN3t&theme=prussian)-->
 
-<p align="center">
+<p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3arlN3t&theme=default" alt="Profile Details" height="180">
  <img src="https://github-readme-stats.vercel.app/api?username=3arlN3t&show_icons=true" alt="GitHub stats" height="180">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3arlN3t&layout=compact" alt="Top Languages" height="180">
