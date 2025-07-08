@@ -12,6 +12,7 @@
 <br>
 
 # My GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3arlN3t&theme=prussian)
 
 ![](https://github.com/3arlN3t/3arlN3t/blob/master/generated/overview.svg)
 ![](https://github.com/3arlN3t/3arlN3t/blob/master/generated/languages.svg)
