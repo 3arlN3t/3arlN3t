@@ -1,28 +1,83 @@
-<h1 align="left" id="OtsileKole-title">:wave: Hello there! I'm Otsile Earl Kole</h1>
-<h3 align="left">I am a LEARNER from South Africa</h3>
+<div align="center">
 
-- 🌱 I am still working on my blog
-- 👯 I am planning to venture into podcasting, watch the space!!!
-- 📫 I’m on Twitter if you care to hear me rambling in short form **[Twitter]**
-- 💬 still sorting out my **[YouTube]** channel
-- 👯 and I am looking for gigs/employment in **[LinkedIn]**
-- ⚡ Fun fact: I am an African
+# 🌟 Hey there! I'm Otsile Earl Kole 
 
-<!-- ![Otsile's github stats](https://github-readme-stats.vercel.app/api?username=3arlN3t&show_icons=true)
-(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3arlN3t&theme=prussian)-->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3arlN3t&theme=default" alt="Profile Details" height="180">
-<p align="left">
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=3arlN3t&show_icons=true" alt="GitHub stats" height="180"> -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3arlN3t&theme=default&utcOffset=8" alt="Productive Time" height="180">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3arlN3t&theme=default" alt="Most Commit Language" height="180">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=3arlN3t&theme=default" alt="GitHub Stats" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3arlN3t&layout=compact" alt="Top Languages" height="180">
+### 🚀 Passionate Developer | AI Enthusiast | Problem Solver from South Africa 🇿🇦
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+from+South+Africa;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies!" alt="Typing SVG" />
 </p>
 
-<br>
-<h2 align="left" id="OtsileKole-tech">Favorite Tech</h2>
+[![Profile Views](https://komarev.com/ghpvc/?username=3arlN3t&color=36BCF7&style=flat-square&label=Profile+Views)](https://github.com/3arlN3t)
+[![GitHub followers](https://img.shields.io/github/followers/3arlN3t?style=social)](https://github.com/3arlN3t)
+[![GitHub User's stars](https://img.shields.io/github/stars/3arlN3t?style=social)](https://github.com/3arlN3t)
 
-> Tools, languages, frameworks and other things that I would like to work with:
+</div>
+
+---
+
+## 🎯 About Me
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" alt="Coding GIF"/>
+
+```yaml
+Name: Otsile Earl Kole
+Location: South Africa 🇿🇦
+Role: Full Stack Developer
+Focus: Building innovative solutions with modern tech
+Mindset: Continuous Learner & Growth-Oriented
+Passion: AI, Web Development & Open Source
+```
+
+### 🌱 What I'm Up To
+
+- 🔭 **Currently Building:** My personal blog and content platform
+- 🎙️ **Planning:** To venture into tech podcasting - watch this space!
+- 📱 **Social:** Sharing thoughts and insights on [Twitter](https://twitter.com/3arlN3t)
+- 🎥 **Content:** Developing my [YouTube](https://youtube.com/@3arlN3t) channel
+- 💼 **Open to:** New opportunities and collaborations via [LinkedIn](https://linkedin.com/in/3arlN3t)
+- ⚡ **Fun Fact:** Proudly representing the African tech community!
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 📈 Profile Summary
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3arlN3t&theme=github_dark" alt="Profile Details" width="100%"/>
+
+### 📊 Statistics Overview
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3arlN3t&theme=github_dark&utcOffset=2" alt="Productive Time" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3arlN3t&theme=github_dark" alt="Most Commit Language" height="180"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=3arlN3t&theme=github_dark" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3arlN3t&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="180"/>
+</p>
+
+### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3arlN3t&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=3arlN3t&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+</div>
+
+---
+
+<br>
+<h2 align="center" id="3arlN3t-tech">💻 Favorite Technologies</h2>
+
+<p align="center">
+  <em>Tools, languages, frameworks and technologies that I love working with</em>
+</p>
 
 ## 🛠️ Tech Stack & Skills
 
@@ -368,64 +423,133 @@
 </tr>
 </table>
 
+</div>
+
 ---
 
-### 📊 Quick Stats
+## 📈 Quick Stats & Achievements
+
 <div align="center">
 
-![image1](image1)
-
-```
-🎯 Years of Experience: 5+
+### 🎯 Development Metrics
+```yaml
+🔥 Years of Experience: 5+
 🚀 Projects Completed: 50+
 ☁️ Cloud Certifications: Azure Fundamentals, GCP Associate
 🌱 Currently Learning: Advanced AI/ML, Kubernetes, Docker
+📍 Based in: South Africa 🇿🇦
+💼 Status: Open to opportunities
 ```
 
-### 🎖️ Certifications & Achievements
-- **Microsoft Azure Fundamentals** (AZ-900) ✅
-- **Google Cloud Platform Associate** 🎯
-- **React Developer Certification** ✅
-- **Full Stack JavaScript Path** ✅
+### 🏆 Certifications & Achievements
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Fundamentals"/>
+      <br><small>✅ Certified</small>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Google_Cloud-Associate-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Associate"/>
+      <br><small>🎯 In Progress</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Developer"/>
+      <br><small>✅ Certified</small>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Full_Stack-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Full Stack JS"/>
+      <br><small>✅ Completed</small>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 💼 Featured Projects by Technology
-
-### 🎨 **Frontend Showcases**
-- **React + TypeScript**: [Project Portfolio](https://github.com/3arlN3t/portfolio) - Personal portfolio with advanced animations
-- **Next.js + TailwindCSS**: [E-commerce Platform](https://github.com/3arlN3t/ecommerce) - Full-stack shopping experience
-- **React + Material-UI**: [Dashboard Analytics](https://github.com/3arlN3t/dashboard) - Real-time data visualization
-
-### ⚙️ **Backend Projects** 
-- **Python + Django**: [API Gateway](https://github.com/3arlN3t/api-gateway) - Microservices architecture
-- **Node.js + MongoDB**: [Social Media API](https://github.com/3arlN3t/social-api) - RESTful social platform
-- **Flask + PostgreSQL**: [ML Model Deployment](https://github.com/3arlN3t/ml-deploy) - AI model serving platform
-
-### ☁️ **Cloud Solutions**
-- **Azure + Docker**: [Containerized Microservices](https://github.com/3arlN3t/microservices-azure)
-- **GCP + Firebase**: [Real-time Chat App](https://github.com/3arlN3t/chat-app-firebase)
-- **Multi-Cloud**: [Disaster Recovery System](https://github.com/3arlN3t/disaster-recovery)
-
----
+## 💼 Featured Projects
 
 <div align="center">
 
-### 🤝 Let's Connect & Collaborate!
+### 🎨 Frontend Showcases
+| Project | Tech Stack | Description | Status |
+|---------|------------|-------------|---------|
+| [🌐 Portfolio](https://github.com/3arlN3t/portfolio) | React + TypeScript | Personal portfolio with advanced animations | ✅ Live |
+| [🛒 E-commerce Platform](https://github.com/3arlN3t/ecommerce) | Next.js + TailwindCSS | Full-stack shopping experience | 🚧 Development |
+| [📊 Dashboard Analytics](https://github.com/3arlN3t/dashboard) | React + Material-UI | Real-time data visualization | ✅ Live |
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://3arlnet.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/3arlnet)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/3arlnet)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@3arlnet.dev)
+### ⚙️ Backend Projects
+| Project | Tech Stack | Description | Status |
+|---------|------------|-------------|---------|
+| [🚪 API Gateway](https://github.com/3arlN3t/api-gateway) | Python + Django | Microservices architecture | ✅ Production |
+| [💬 Social Media API](https://github.com/3arlN3t/social-api) | Node.js + MongoDB | RESTful social platform | 🚧 Development |
+| [🤖 ML Model Deployment](https://github.com/3arlN3t/ml-deploy) | Flask + PostgreSQL | AI model serving platform | 📝 Planning |
 
-*💡 Always open to interesting projects and collaboration opportunities!*
+### ☁️ Cloud Solutions
+| Project | Tech Stack | Description | Status |
+|---------|------------|-------------|---------|
+| [📦 Microservices](https://github.com/3arlN3t/microservices-azure) | Azure + Docker | Containerized architecture | ✅ Production |
+| [💬 Real-time Chat](https://github.com/3arlN3t/chat-app-firebase) | GCP + Firebase | Real-time messaging app | ✅ Live |
+| [🔄 Disaster Recovery](https://github.com/3arlN3t/disaster-recovery) | Multi-Cloud | Backup & recovery system | 📝 Planning |
 
 </div>
 
-</div>
+---
 
+## 🌐 Let's Connect & Collaborate!
+
+<div align="center">
+
+### 💬 Get In Touch
+
+<a href="https://3arlnet.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/3arlnet" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/3arlnet" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="mailto:contact@3arlnet.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+### 🎯 Current Focus
+```mermaid
+graph LR
+    A[🔍 Learning] --> B[AI/ML Development]
+    A --> C[Cloud Architecture]
+    A --> D[DevOps Practices]
+    
+    E[🚀 Building] --> F[Personal Blog]
+    E --> G[Tech Podcast]
+    E --> H[Open Source Projects]
+    
+    I[🤝 Seeking] --> J[Collaboration]
+    I --> K[Job Opportunities]
+    I --> L[Mentorship]
+```
+
+<br>
+
+### 📬 Always Open To
+
+🚀 **Innovative Projects** | 🤝 **Collaboration Opportunities** | 💼 **Career Opportunities** | 🌱 **Knowledge Sharing**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=16&fontColor=white&animation=twinkling" width="100%"/>
+</p>
+
+<p align="center">
+  <em>✨ Made with ❤️ by <a href="https://github.com/3arlN3t">3arlN3t</a> ✨</em>
+</p>
+
+</div>
 [linkedin]: https://www.linkedin.com/in/otsile-earl-kole-0734a820/ "LinkedIn"
 [twitter]: https://twitter.com/OtsileKole "Twitter"
 [youtube]: https://www.youtube.com/c/OtsileEarlKole/videos "YouTube"
