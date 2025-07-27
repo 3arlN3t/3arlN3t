@@ -463,9 +463,27 @@ Passion: AI, Web Development & Open Source
       <br><small>✅ Completed</small>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SharePoint-Online_Admin-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="SharePoint Online"/>
+      <br><small>✅ Certified</small>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C%23-Foundational-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Foundational"/>
+      <br><small>✅ Completed</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/GitHub-Training-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Training"/>
+      <br><small>✅ Completed</small>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Power_Apps-Training-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps Training"/>
+      <br><small>✅ Completed</small>
+    </td>
+  </tr>
 </table>
-
-</div>
 
 ---
 
