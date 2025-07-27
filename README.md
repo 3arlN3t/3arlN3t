@@ -28,340 +28,353 @@
 
 <div align="center">
 
-### 🎨 Frontend Development
-<table>
+<table width="100%">
+<tr>
+<td width="20%" valign="top">
+
+### 🎨 Frontend
+<table align="center">
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="#3arlN3t-frontend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
       </a>
       <br><strong>JavaScript</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #4CAF50; width: 90%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⭐⭐ Expert</small>
+      <br>⭐⭐⭐⭐⭐
+      <br><small>Expert</small>
     </td>
-    <td align="center" width="120">
+  </tr>
+  <tr>
+    <td align="center" width="80">
       <a href="#3arlN3t-frontend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
       </a>
       <br><strong>TypeScript</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #2196F3; width: 85%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⭐⚬ Advanced</small>
+      <br>⭐⭐⭐⭐⚬
+      <br><small>Advanced</small>
     </td>
-    <td align="center" width="120">
+  </tr>
+  <tr>
+    <td align="center" width="80">
       <a href="#3arlN3t-frontend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
       </a>
       <br><strong>React</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #61DAFB; width: 90%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⭐⭐ Expert</small>
+      <br>⭐⭐⭐⭐⭐
+      <br><small>Expert</small>
     </td>
-    <td align="center" width="120">
+  </tr>
+  <tr>
+    <td align="center" width="80">
       <a href="#3arlN3t-frontend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
       </a>
       <br><strong>Next.js</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #000000; width: 80%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⭐⚬ Advanced</small>
+      <br>⭐⭐⭐⭐⚬
+      <br><small>Advanced</small>
     </td>
   </tr>
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="#3arlN3t-frontend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="TailwindCSS" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="TailwindCSS" />
       </a>
       <br><strong>TailwindCSS</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #38B2AC; width: 85%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⭐⚬ Advanced</small>
+      <br>⭐⭐⭐⭐⚬
+      <br><small>Advanced</small>
     </td>
-    <td align="center" width="120">
+  </tr>
+  <tr>
+    <td align="center" width="80">
       <a href="#3arlN3t-frontend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" alt="Bootstrap" />
       </a>
       <br><strong>Bootstrap</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #7952B3; width: 75%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⚬⚬ Intermediate</small>
+      <br>⭐⭐⭐⚬⚬
+      <br><small>Intermediate</small>
     </td>
-    <td align="center" width="120">
+  </tr>
+  <tr>
+    <td align="center" width="80">
       <a href="#3arlN3t-frontend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" />
       </a>
       <br><strong>Redux</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #764ABC; width: 80%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⭐⚬ Advanced</small>
+      <br>⭐⭐⭐⭐⚬
+      <br><small>Advanced</small>
     </td>
-    <td align="center" width="120">
+  </tr>
+  <tr>
+    <td align="center" width="80">
       <a href="#3arlN3t-frontend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material-UI" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="40" height="40" alt="Material-UI" />
       </a>
       <br><strong>Material-UI</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #0081CB; width: 70%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⚬⚬ Intermediate</small>
+      <br>⭐⭐⭐⚬⚬
+      <br><small>Intermediate</small>
     </td>
   </tr>
 </table>
 
-### ⚙️ Backend Development
-<table>
+</td>
+<td width="20%" valign="top">
+
+### ⚙️ Backend
+<table align="center">
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="#3arlN3t-backend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
       </a>
       <br><strong>Python</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #3776AB; width: 90%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⭐⭐ Expert</small>
+      <br>⭐⭐⭐⭐⭐
+      <br><small>Expert</small>
     </td>
-    <td align="center" width="120">
+  </tr>
+  <tr>
+    <td align="center" width="80">
       <a href="#3arlN3t-backend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
       </a>
       <br><strong>Django</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #092E20; width: 85%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⭐⚬ Advanced</small>
+      <br>⭐⭐⭐⭐⚬
+      <br><small>Advanced</small>
     </td>
-    <td align="center" width="120">
+  </tr>
+  <tr>
+    <td align="center" width="80">
       <a href="#3arlN3t-backend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
       </a>
       <br><strong>Node.js</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #339933; width: 80%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⭐⚬ Advanced</small>
+      <br>⭐⭐⭐⭐⚬
+      <br><small>Advanced</small>
     </td>
-    <td align="center" width="120">
+  </tr>
+  <tr>
+    <td align="center" width="80">
       <a href="#3arlN3t-backend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" />
       </a>
       <br><strong>Flask</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #000000; width: 75%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⚬⚬ Intermediate</small>
+      <br>⭐⭐⭐⚬⚬
+      <br><small>Intermediate</small>
     </td>
   </tr>
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="#3arlN3t-backend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
       </a>
       <br><strong>PHP</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #777BB4; width: 70%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⚬⚬ Intermediate</small>
+      <br>⭐⭐⭐⚬⚬
+      <br><small>Intermediate</small>
     </td>
-    <td align="center" width="120">
+  </tr>
+  <tr>
+    <td align="center" width="80">
       <a href="#3arlN3t-backend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL" />
       </a>
       <br><strong>GraphQL</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #E10098; width: 75%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⚬⚬ Intermediate</small>
+      <br>⭐⭐⭐⚬⚬
+      <br><small>Intermediate</small>
     </td>
-    <td align="center" width="120">
+  </tr>
+  <tr>
+    <td align="center" width="80">
       <a href="#3arlN3t-backend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
       </a>
       <br><strong>C</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #A8B9CC; width: 70%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⚬⚬ Intermediate</small>
+      <br>⭐⭐⭐⚬⚬
+      <br><small>Intermediate</small>
     </td>
-    <td align="center" width="120">
+  </tr>
+  <tr>
+    <td align="center" width="80">
       <a href="#3arlN3t-backend">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
       </a>
       <br><strong>MongoDB</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #47A248; width: 80%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⭐⚬ Advanced</small>
+      <br>⭐⭐⭐⭐⚬
+      <br><small>Advanced</small>
     </td>
   </tr>
 </table>
+
+</td>
+<td width="20%" valign="top">
 
 ### ☁️ Cloud & DevOps
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="#3arlN3t-cloud">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" alt="Azure" />
       </a>
       <br><strong>Azure</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #0078D4; width: 85%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⭐⚬ Advanced</small>
+      <br>⭐⭐⭐⭐⚬
+      <br><small>Advanced</small>
     </td>
-    <td align="center" width="120">
+  </tr>
+  <tr>
+    <td align="center" width="80">
       <a href="#3arlN3t-cloud">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" />
       </a>
       <br><strong>Google Cloud</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #4285F4; width: 75%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⚬⚬ Intermediate</small>
+      <br>⭐⭐⭐⚬⚬
+      <br><small>Intermediate</small>
     </td>
-    <td align="center" width="120">
+  </tr>
+  <tr>
+    <td align="center" width="80">
       <a href="#3arlN3t-cloud">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
       </a>
       <br><strong>Firebase</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #FFCA28; width: 80%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⭐⚬ Advanced</small>
+      <br>⭐⭐⭐⭐⚬
+      <br><small>Advanced</small>
     </td>
-    <td align="center" width="120">
+  </tr>
+  <tr>
+    <td align="center" width="80">
       <a href="#3arlN3t-cloud">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
       </a>
       <br><strong>Linux</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #FCC624; width: 85%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⭐⚬ Advanced</small>
+      <br>⭐⭐⭐⭐⚬
+      <br><small>Advanced</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <a href="#3arlN3t-cloud">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+      </a>
+      <br><strong>Docker</strong>
+      <br>⭐⭐⭐⚬⚬
+      <br><small>Intermediate</small>
     </td>
   </tr>
 </table>
 
-### 🛠️ Tools & Technologies
-<table>
+</td>
+<td width="20%" valign="top">
+
+### 🛠️ Tools
+<table align="center">
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="#3arlN3t-tools">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
       </a>
       <br><strong>Git</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #F05032; width: 90%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⭐⭐ Expert</small>
+      <br>⭐⭐⭐⭐⭐
+      <br><small>Expert</small>
     </td>
-    <td align="center" width="120">
+  </tr>
+  <tr>
+    <td align="center" width="80">
       <a href="#3arlN3t-tools">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
       </a>
       <br><strong>Figma</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #F24E1E; width: 80%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⭐⚬ Advanced</small>
+      <br>⭐⭐⭐⭐⚬
+      <br><small>Advanced</small>
     </td>
-    <td align="center" width="120">
+  </tr>
+  <tr>
+    <td align="center" width="80">
       <a href="#3arlN3t-tools">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
       </a>
       <br><strong>Bash</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #4EAA25; width: 75%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⚬⚬ Intermediate</small>
+      <br>⭐⭐⭐⚬⚬
+      <br><small>Intermediate</small>
     </td>
-    <td align="center" width="120">
+  </tr>
+  <tr>
+    <td align="center" width="80">
       <a href="#3arlN3t-tools">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="48" height="48" alt="WordPress" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="WordPress" />
       </a>
       <br><strong>WordPress</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #21759B; width: 70%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⚬⚬ Intermediate</small>
+      <br>⭐⭐⭐⚬⚬
+      <br><small>Intermediate</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <a href="#3arlN3t-tools">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+      </a>
+      <br><strong>VS Code</strong>
+      <br>⭐⭐⭐⭐⭐
+      <br><small>Expert</small>
     </td>
   </tr>
 </table>
 
-### 🤖 AI & Machine Learning
-<table>
+</td>
+<td width="20%" valign="top">
+
+### 🤖 AI & Frameworks
+<table align="center">
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="#3arlN3t-ai">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
       </a>
       <br><strong>TensorFlow</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #FF6F00; width: 65%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⚬⚬ Learning</small>
-    </td>
-    <td align="center" width="120">
-      <a href="#3arlN3t-ai">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" width="48" height="48" alt="Gatsby" />
-      </a>
-      <br><strong>Gatsby</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #663399; width: 70%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⚬⚬ Intermediate</small>
-    </td>
-    <td align="center" width="120">
-      <a href="#3arlN3t-ai">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="48" height="48" alt="Electron" />
-      </a>
-      <br><strong>Electron</strong>
-      <br>
-      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
-        <div style="background-color: #47848F; width: 70%; height: 8px; border-radius: 8px;"></div>
-      </div>
-      <small>⭐⭐⭐⚬⚬ Intermediate</small>
+      <br>⭐⭐⭐⚬⚬
+      <br><small>Learning</small>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="80">
+      <a href="#3arlN3t-ai">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" width="40" height="40" alt="Gatsby" />
+      </a>
+      <br><strong>Gatsby</strong>
+      <br>⭐⭐⭐⚬⚬
+      <br><small>Intermediate</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <a href="#3arlN3t-ai">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40" height="40" alt="Electron" />
+      </a>
+      <br><strong>Electron</strong>
+      <br>⭐⭐⭐⚬⚬
+      <br><small>Intermediate</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <a href="#3arlN3t-ai">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" />
+      </a>
+      <br><strong>Jupyter</strong>
+      <br>⭐⭐⭐⭐⚬
+      <br><small>Advanced</small>
+    </td>
+  </tr>
+</table>
+
+</td>
+</tr>
 </table>
 
 ---
 
 ### 📊 Quick Stats
+<div align="center">
+
+![image1](image1)
+
 ```
 🎯 Years of Experience: 5+
 🚀 Projects Completed: 50+
@@ -408,6 +421,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@3arlnet.dev)
 
 *💡 Always open to interesting projects and collaboration opportunities!*
+
+</div>
 
 </div>
 
