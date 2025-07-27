@@ -24,179 +24,392 @@
 
 > Tools, languages, frameworks and other things that I would like to work with:
 
-<table align="center">
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### 🎨 Frontend Development
+<table>
   <tr>
-    <td align="center" width="96">
-      <a href="#OtsileKole-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+    <td align="center" width="120">
+      <a href="#3arlN3t-frontend">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>JavaScript
+      <br><strong>JavaScript</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #4CAF50; width: 90%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⭐⭐ Expert</small>
     </td>
-    <td align="center" width="96">
-      <a href="#OtsileKole-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+    <td align="center" width="120">
+      <a href="#3arlN3t-frontend">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>Python
+      <br><strong>TypeScript</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #2196F3; width: 85%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⭐⚬ Advanced</small>
     </td>
-    <td align="center" width="96">
-      <a href="#OtsileKole-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+    <td align="center" width="120">
+      <a href="#3arlN3t-frontend">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
-      <br>Django
+      <br><strong>React</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #61DAFB; width: 90%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⭐⭐ Expert</small>
     </td>
-    <td align="center" width="96">
-      <a href="#OtsileKole-tech">
-        <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
+    <td align="center" width="120">
+      <a href="#3arlN3t-frontend">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
       </a>
-      <br>Azure
-    </td>
-    <td align="center" width="96">
-      <a href="#OtsileKole-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#OtsileKole-tech">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React JS
-    </td>
-    <td align="center" width="96">
-      <a href="#OtsileKole-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#OtsileKole-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-     <td align="center" width="96"> 
-      <a href="#OtsileKole-tech" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
+      <br><strong>Next.js</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #000000; width: 80%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⭐⚬ Advanced</small>
     </td>
   </tr>
-  
   <tr>
-    <td align="center" width="96"> 
-      <a href="#OtsileKole-tech" >
-        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
+    <td align="center" width="120">
+      <a href="#3arlN3t-frontend">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="TailwindCSS" />
       </a>
-      <br>C Lang
+      <br><strong>TailwindCSS</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #38B2AC; width: 85%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⭐⚬ Advanced</small>
     </td>
-    <td align="center" width="96">
-      <a href="#OtsileKole-tech" >
-        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
+    <td align="center" width="120">
+      <a href="#3arlN3t-frontend">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>Linux
+      <br><strong>Bootstrap</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #7952B3; width: 75%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⚬⚬ Intermediate</small>
     </td>
-    <td align="center"  width="96">
-      <a href="#OtsileKole-tech">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
+    <td align="center" width="120">
+      <a href="#3arlN3t-frontend">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
       </a>
-      <br>Gatsby
+      <br><strong>Redux</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #764ABC; width: 80%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⭐⚬ Advanced</small>
     </td>
-    <td align="center"  width="96">
-      <a href="#OtsileKole-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
+    <td align="center" width="120">
+      <a href="#3arlN3t-frontend">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material-UI" />
       </a>
-      <br>Electron
-    </td>
-    <td align="center" width="96">
-      <a href="#OtsileKole-tech">
-        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center"  width="96">
-      <a href="#OtsileKole-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
-      </a>
-      <br>WordPress
-    </td>
-    <td align="center" width="96">
-      <a href="#OtsileKole-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <a href="#OtsileKole-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#OtsileKole-tech" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
+      <br><strong>Material-UI</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #0081CB; width: 70%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⚬⚬ Intermediate</small>
     </td>
   </tr>
-   <tr>
-    <td align="center" width="96">
-      <a href="#OtsileKole-tech">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
-      </a>
-      <br>TailWind
-    </td>
-    <td align="center" width="96">
-      <a href="#OtsileKole-tech">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <a href="#OtsileKole-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#OtsileKole-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
-      </a>
-      <br>Tensorflow
-    </td>
-    <td align="center" width="96">
-      <a href="#OtsileKole-tech">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>Material ui
-    </td>
-    <td align="center" width="96">
-      <a href="#OtsileKole-tech">
-        <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
-      </a>
-      <br>Flask
-    </td>
-     <td align="center" width="96"> 
-      <a href="#OtsileKole-tech" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-          <td align="center" width="96"> 
-      <a href="#OtsileKole-tech" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
-             <td align="center" width="96"> 
-      <a href="#OtsileKole-tech" >
-        <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
-      </a>
-      <br>G Cloud
-    </td>
-  </tr>
-    
 </table>
 
+### ⚙️ Backend Development
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="#3arlN3t-backend">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br><strong>Python</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #3776AB; width: 90%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⭐⭐ Expert</small>
+    </td>
+    <td align="center" width="120">
+      <a href="#3arlN3t-backend">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br><strong>Django</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #092E20; width: 85%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⭐⚬ Advanced</small>
+    </td>
+    <td align="center" width="120">
+      <a href="#3arlN3t-backend">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br><strong>Node.js</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #339933; width: 80%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⭐⚬ Advanced</small>
+    </td>
+    <td align="center" width="120">
+      <a href="#3arlN3t-backend">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
+      </a>
+      <br><strong>Flask</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #000000; width: 75%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⚬⚬ Intermediate</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="#3arlN3t-backend">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+      </a>
+      <br><strong>PHP</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #777BB4; width: 70%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⚬⚬ Intermediate</small>
+    </td>
+    <td align="center" width="120">
+      <a href="#3arlN3t-backend">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br><strong>GraphQL</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #E10098; width: 75%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⚬⚬ Intermediate</small>
+    </td>
+    <td align="center" width="120">
+      <a href="#3arlN3t-backend">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      </a>
+      <br><strong>C</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #A8B9CC; width: 70%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⚬⚬ Intermediate</small>
+    </td>
+    <td align="center" width="120">
+      <a href="#3arlN3t-backend">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br><strong>MongoDB</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #47A248; width: 80%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⭐⚬ Advanced</small>
+    </td>
+  </tr>
+</table>
+
+### ☁️ Cloud & DevOps
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="#3arlN3t-cloud">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
+      </a>
+      <br><strong>Azure</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #0078D4; width: 85%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⭐⚬ Advanced</small>
+    </td>
+    <td align="center" width="120">
+      <a href="#3arlN3t-cloud">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
+      </a>
+      <br><strong>Google Cloud</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #4285F4; width: 75%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⚬⚬ Intermediate</small>
+    </td>
+    <td align="center" width="120">
+      <a href="#3arlN3t-cloud">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br><strong>Firebase</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #FFCA28; width: 80%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⭐⚬ Advanced</small>
+    </td>
+    <td align="center" width="120">
+      <a href="#3arlN3t-cloud">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br><strong>Linux</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #FCC624; width: 85%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⭐⚬ Advanced</small>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Tools & Technologies
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="#3arlN3t-tools">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br><strong>Git</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #F05032; width: 90%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⭐⭐ Expert</small>
+    </td>
+    <td align="center" width="120">
+      <a href="#3arlN3t-tools">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      </a>
+      <br><strong>Figma</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #F24E1E; width: 80%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⭐⚬ Advanced</small>
+    </td>
+    <td align="center" width="120">
+      <a href="#3arlN3t-tools">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+      </a>
+      <br><strong>Bash</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #4EAA25; width: 75%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⚬⚬ Intermediate</small>
+    </td>
+    <td align="center" width="120">
+      <a href="#3arlN3t-tools">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="48" height="48" alt="WordPress" />
+      </a>
+      <br><strong>WordPress</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #21759B; width: 70%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⚬⚬ Intermediate</small>
+    </td>
+  </tr>
+</table>
+
+### 🤖 AI & Machine Learning
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="#3arlN3t-ai">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
+      </a>
+      <br><strong>TensorFlow</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #FF6F00; width: 65%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⚬⚬ Learning</small>
+    </td>
+    <td align="center" width="120">
+      <a href="#3arlN3t-ai">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" width="48" height="48" alt="Gatsby" />
+      </a>
+      <br><strong>Gatsby</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #663399; width: 70%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⚬⚬ Intermediate</small>
+    </td>
+    <td align="center" width="120">
+      <a href="#3arlN3t-ai">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="48" height="48" alt="Electron" />
+      </a>
+      <br><strong>Electron</strong>
+      <br>
+      <div style="background-color: #f0f0f0; border-radius: 10px; padding: 2px;">
+        <div style="background-color: #47848F; width: 70%; height: 8px; border-radius: 8px;"></div>
+      </div>
+      <small>⭐⭐⭐⚬⚬ Intermediate</small>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Quick Stats
+```
+🎯 Years of Experience: 5+
+🚀 Projects Completed: 50+
+☁️ Cloud Certifications: Azure Fundamentals, GCP Associate
+🌱 Currently Learning: Advanced AI/ML, Kubernetes, Docker
+```
+
+### 🎖️ Certifications & Achievements
+- **Microsoft Azure Fundamentals** (AZ-900) ✅
+- **Google Cloud Platform Associate** 🎯
+- **React Developer Certification** ✅
+- **Full Stack JavaScript Path** ✅
+
+</div>
+
+---
+
+## 💼 Featured Projects by Technology
+
+### 🎨 **Frontend Showcases**
+- **React + TypeScript**: [Project Portfolio](https://github.com/3arlN3t/portfolio) - Personal portfolio with advanced animations
+- **Next.js + TailwindCSS**: [E-commerce Platform](https://github.com/3arlN3t/ecommerce) - Full-stack shopping experience
+- **React + Material-UI**: [Dashboard Analytics](https://github.com/3arlN3t/dashboard) - Real-time data visualization
+
+### ⚙️ **Backend Projects** 
+- **Python + Django**: [API Gateway](https://github.com/3arlN3t/api-gateway) - Microservices architecture
+- **Node.js + MongoDB**: [Social Media API](https://github.com/3arlN3t/social-api) - RESTful social platform
+- **Flask + PostgreSQL**: [ML Model Deployment](https://github.com/3arlN3t/ml-deploy) - AI model serving platform
+
+### ☁️ **Cloud Solutions**
+- **Azure + Docker**: [Containerized Microservices](https://github.com/3arlN3t/microservices-azure)
+- **GCP + Firebase**: [Real-time Chat App](https://github.com/3arlN3t/chat-app-firebase)
+- **Multi-Cloud**: [Disaster Recovery System](https://github.com/3arlN3t/disaster-recovery)
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Collaborate!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://3arlnet.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/3arlnet)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/3arlnet)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@3arlnet.dev)
+
+*💡 Always open to interesting projects and collaboration opportunities!*
+
+</div>
 
 [linkedin]: https://www.linkedin.com/in/otsile-earl-kole-0734a820/ "LinkedIn"
 [twitter]: https://twitter.com/OtsileKole "Twitter"
