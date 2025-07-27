@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Hey there! I'm Otsile Earl Kole 
+# 🌟 Hey there my name is Otsile Earl Kole 
 
 ### 🚀 Passionate Developer | AI Enthusiast | Problem Solver from South Africa 🇿🇦
 
@@ -40,22 +40,21 @@ Passion: AI, Web Development & Open Source
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 📈 Profile Summary
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3arlN3t&theme=github_dark" alt="Profile Details" width="100%"/>
+### 📊 GitHub Analytics Dashboard
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3arlN3t&theme=github_dark" alt="Repos per Language" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3arlN3t&theme=github_dark&utcOffset=2" alt="Productive Time" height="180"/>
+</p>
 
 ### 📊 Statistics Overview
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3arlN3t&theme=github_dark&utcOffset=2" alt="Productive Time" height="180"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3arlN3t&theme=github_dark" alt="Most Commit Language" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=3arlN3t&theme=github_dark" alt="GitHub Stats" height="180"/>
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=3arlN3t&theme=github_dark" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3arlN3t&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=3arlN3t&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="180"/>
 </p>
 
 ### 🔥 Contribution Streak
@@ -63,6 +62,15 @@ Passion: AI, Web Development & Open Source
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3arlN3t&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3arlN3t&theme=github-compact&hide_border=true" alt="Contribution Graph" width="100%"/>
+</p>
+
+### 📈 Activity Timeline
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3arlN3t&theme=github_dark" alt="Profile Details" width="100%"/>
+</p>
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=3arlN3t&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
@@ -429,7 +437,7 @@ Passion: AI, Web Development & Open Source
 
 ## 📈 Quick Stats & Achievements
 
-<div align="center">
+<div align="left">
 
 ### 🎯 Development Metrics
 ```yaml
@@ -442,7 +450,7 @@ Passion: AI, Web Development & Open Source
 ```
 
 ### 🏆 Certifications & Achievements
-<table align="center">
+<table align="left">
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Fundamentals"/>
@@ -489,7 +497,7 @@ Passion: AI, Web Development & Open Source
 
 ## 💼 Featured Projects
 
-<div align="center">
+<div align="left">
 
 ### 🎨 Frontend Showcases
 | Project | Tech Stack | Description | Status |
